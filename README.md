@@ -1,4 +1,4 @@
-# Sagar's dotfiles 
+# Sagar's dotfiles
 
 Here's my dotfiles repo.
 
@@ -50,4 +50,4 @@ Suggestions/improvements
 
 
 
-*italic* Based on Zell's dotfiles
+*Based on Zell's dotfiles*
