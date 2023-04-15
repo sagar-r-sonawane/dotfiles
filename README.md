@@ -1,4 +1,4 @@
-# Zell's dotfiles
+# Sagar's dotfiles
 
 Here's my dotfiles repo.
 
@@ -21,13 +21,12 @@ Here's my dotfiles repo.
 2. Put things you don't want to commit into the `.extra` file. Here's what my `.extra` looks like:
 	```
 	# npm init defaults
-	npm config set init.author.name "Zell Liew"
+	npm config set init.author.name "Sagar Sonawane"
 	npm config set init.author.email "my-email"
-	npm config set init.author.url "https://zellwk.com"
 	npm config set init.license MIT
 
 	# Git config
-	GIT_AUTHOR_NAME="Zell Liew"
+	GIT_AUTHOR_NAME="Sagar Sonawane"
 	GIT_AUTHOR_EMAIL="my-email"
 	GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
 	git config --global user.name "$GIT_AUTHOR_NAME"
@@ -46,4 +45,11 @@ If you want to give these dotfiles a try, you should first fork this repository,
 ## Feedback
 
 Suggestions/improvements
-[welcome](https://github.com/zellwk/dotfiles/issues)!
+[welcome](https://github.com/sagar-r-sonawane/dotfiles/issues)!
+
+<br />
+<br />
+<br />
+
+#### Thanks to Mathias Bynens
+#### Thanks to Zell Liew
