@@ -64,3 +64,6 @@ sftp-config.json
 
 # No Ulysses plist files
 *.plist
+
+# Patch files
+*.patch
