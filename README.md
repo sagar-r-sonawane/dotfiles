@@ -47,7 +47,9 @@ If you want to give these dotfiles a try, you should first fork this repository,
 Suggestions/improvements
 [welcome](https://github.com/sagar-r-sonawane/dotfiles/issues)!
 
+<br />
+<br />
+<br />
 
-
-
-*Based on Zell's dotfiles*
+#### Thanks to Mathias Bynes 
+#### Thanks to Zell Liew
